@@ -30,7 +30,6 @@ close(fi)
 
 
 
-
 'PLOT3
 png is a Graphics File Devices Bitmap formats
 png: bitmapped format, good for line drawings or images with solid colors, uses lossless
